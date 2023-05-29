@@ -11,3 +11,4 @@ Fresh install new macOs
 - Brewhome : [link](https://brew.sh/)
 - Git: [link](https://git-scm.com/download/mac/)
 - Neovim: [link](https://github.com/neovim/neovim)
+- Logi Option+ : [link](https://www.logitech.com/vi-vn/software/logi-options-plus.html)
